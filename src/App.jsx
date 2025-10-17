@@ -1,6 +1,10 @@
+import NavBar from "./components/NavBar"
+
 const App = () => {
   return (
-    <h1 className="">Hello, Apple mac book pro</h1>
+    <main>
+      <NavBar />
+    </main>
   )
 }
 
